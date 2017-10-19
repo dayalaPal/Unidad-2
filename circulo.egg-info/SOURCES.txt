@@ -1,0 +1,6 @@
+circulo.py
+setup.py
+circulo.egg-info/PKG-INFO
+circulo.egg-info/SOURCES.txt
+circulo.egg-info/dependency_links.txt
+circulo.egg-info/top_level.txt
